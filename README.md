@@ -1,1 +1,2 @@
-# githubavi
+Disease prediction using machine learning is very much useful in everyone’s day to day life and it is more important for the healthcare sector, because they are the one that daily uses these symptoms to predict the disease of the patients based on their general information and there symptoms that they are been through.
+The disease prediction is to provide prediction for the various and generally occurring diseases that when unchecked and sometimes ignored can turn into fatal disease and cause a lot of problems to the patient and as well as their family members. 
